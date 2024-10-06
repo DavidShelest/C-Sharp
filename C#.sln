@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 1", "Day 1\Day 1.csproj", "{F6FA1BDC-C6EA-4077-A890-7EAD4FEA35DA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remainder", "remainder\remainder.csproj", "{90692179-177B-4749-9AF8-E38AA8C7E1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "copying array", "copying array\copying array.csproj", "{6E9815DD-9E62-487F-97C9-DE9EEB472B41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6FA1BDC-C6EA-4077-A890-7EAD4FEA35DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6FA1BDC-C6EA-4077-A890-7EAD4FEA35DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6FA1BDC-C6EA-4077-A890-7EAD4FEA35DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6FA1BDC-C6EA-4077-A890-7EAD4FEA35DA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{90692179-177B-4749-9AF8-E38AA8C7E1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{90692179-177B-4749-9AF8-E38AA8C7E1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90692179-177B-4749-9AF8-E38AA8C7E1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90692179-177B-4749-9AF8-E38AA8C7E1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9815DD-9E62-487F-97C9-DE9EEB472B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9815DD-9E62-487F-97C9-DE9EEB472B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9815DD-9E62-487F-97C9-DE9EEB472B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9815DD-9E62-487F-97C9-DE9EEB472B41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
